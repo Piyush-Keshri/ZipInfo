@@ -1,0 +1,32 @@
+/* Output */
+.Output {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  p {
+    margin: 10px 0;
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  p.country {
+    font-weight: bold;
+    color: #007bff;
+  }
+  
+  /* Error */
+  p.error {
+    color: #ff0000;
+  }
+  
